@@ -5,21 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8726149e-8edd-4a12-8943-2ad50bccb4c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/data-mining-labs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apriori/apriori.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apriori/weather_nominal.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data-cleaning/data-cleaning.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fp-growth/fp-growth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fp-growth/store_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kmeans/kmeans.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linear-regression/house_price.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linear-regression/linear-regression.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agglomerative.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/bank_dataset.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dbscan.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,17 +34,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.kmeans.executor&quot;: &quot;Run&quot;,
-    &quot;Python.linear-regression.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.agglomerative.executor": "Run",
+    "Python.dbscan.executor": "Run",
+    "Python.kmeans.executor": "Run",
+    "Python.linear-regression.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\youss\PycharmProjects\data-mining-labs\datasets" />
+      <recent name="C:\Users\youss\PycharmProjects\data-mining-labs" />
       <recent name="C:\Users\youss\PycharmProjects\data-mining-labs\linear-regression" />
       <recent name="C:\Users\youss\PycharmProjects\data-mining-labs\fp-growth" />
       <recent name="C:\Users\youss\PycharmProjects\data-mining-labs\apriori" />
